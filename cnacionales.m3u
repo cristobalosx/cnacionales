@@ -146,4 +146,4 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
  
 #EXTINF:-1, tvg-logo="https://i.imgur.com/NY5di2p.jpg" , ITV
-http://unlimited1-cl.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+http://unlimited6-cl.dps.live/itv/itv.smil/playlist.m3u8
